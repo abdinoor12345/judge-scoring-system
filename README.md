@@ -134,10 +134,8 @@ Mobile-first redesign with external CSS/JS.
 
 1 Landing page ![image](https://res.cloudinary.com/dwz971dvw/image/upload/v1748169683/landing_image_lwbkt9.jpg)
 
-2 Judge-![Portal](https://res.cloudinary.com/dwz971dvw/image/upload/v1748169830/judges_aicvz1.jpg)
+2 Judge-portal![Portal](https://res.cloudinary.com/dwz971dvw/image/upload/v1748169830/judges_aicvz1.jpg)
 
-![3 Admin-porta (ADD JUDGES)
-](![https://](https://res.cloudinary.com/dwz971dvw/image/upload/v1748169755/admin-judge_aqjbab.jpg))
+ 3Adminportal(ADDING-JUDGES)-![Portal](https://res.cloudinary.com/dwz971dvw/image/upload/v1748169755/admin-judge_aqjbab.jpg)
 
-![4 Scoreboard
-](![https://](https://res.cloudinary.com/dwz971dvw/image/upload/v1748169723/scoreboard_u16vk5.jpg))
+ 4 Public-Scoreboard-![Portal](https://res.cloudinary.com/dwz971dvw/image/upload/v1748169723/scoreboard_u16vk5.jpg)
